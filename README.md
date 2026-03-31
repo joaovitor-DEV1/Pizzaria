@@ -17,7 +17,7 @@ ADM - Controle de gastos e senhas dos funcionarios💻
 
 
 
-A aplicação permite:
+A aplicação permite: 
 - realizar pedidos 
 - Guardar esses pedidos em um banco de dados proprio
 - calcular o faturamento
