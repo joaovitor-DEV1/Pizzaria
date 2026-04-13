@@ -59,11 +59,15 @@ pastas:
 7. npm install cors
 8. npm install dotenv
 
-9. popular o banco de dados com o comando (node seed.js)
+9. popular o banco de dados com o comando (node seed.js) e adicionar . env com
+PORT=3001
+DB_PATH=./pizzaria.db
+JWT_SECRET=senha123456
 
-10. iniciar o servidor (node index.js)
 
-11. Acesse http://localhost:3001 no navegador.
+11. iniciar o servidor (node index.js)
+
+12. Acesse http://localhost:3001 no navegador.
 
 tela de login:
 <img width="1919" height="943" alt="unnamed" src="https://github.com/user-attachments/assets/40dcb08d-5973-4b0f-bd5b-be6d83685001" />
