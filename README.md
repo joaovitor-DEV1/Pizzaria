@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes da Dupla
 - André Gustavo Pavanelli
-- João Victor
+- João Vitor
                                                     
 
 
